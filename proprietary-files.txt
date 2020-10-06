@@ -1862,10 +1862,8 @@ vendor/lib64/libFIDOKeyProvisioning.so
 
 # Fingerprint
 framework/vendor.qti.hardware.fingerprint-V1.0-java.jar:vendor/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar
-vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service
 vendor/bin/hw/vendor.sw.swfingerprint@1.0-service
 vendor/bin/qfp-daemon
-vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc
 vendor/etc/init/vendor.sw.swfingerprint@1.0-service.rc
 vendor/etc/nubia_mmi/layout/layout_fingerprint.xml
 vendor/lib/hw/fingerprint.sunwave.so
